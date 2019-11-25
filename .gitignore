@@ -1,0 +1,8 @@
+# editor
+.idea
+
+# secret key
+secrets.json
+
+# environment
+venv/
